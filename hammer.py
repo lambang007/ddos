@@ -76,8 +76,10 @@ def dos2():
 
 def usage():
 	print (''' \033[92m	Hammer Dos Script v.1 http://www.canyalcin.com/
-	It is the end user's responsibility to obey all applicable laws.
-	It is just for server testing script. Hacking by Mr Horden/FR13ND5 Your ip is visible. \n
+	Script untuk member FR13ND5 saja.caranya cari IP target dengang ketik ping URL pada termux
+Setelah IP target sudah ada masukan perintah dengan cara sperti contoh dibawah
+. Tutor by Mr Horden/FR13ND5 Your ip is visible. \n
+
 	usage : python3 hammer.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
