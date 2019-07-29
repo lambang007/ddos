@@ -75,10 +75,29 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer Dos Script v.1 http://www.canyalcin.com/
-	Script untuk member FR13ND5 saja.caranya cari IP target dengang ketik ping URL pada termux
-Setelah IP target sudah ada masukan perintah dengan cara sperti contoh dibawah
+	print (''' \033[92m	Hammer Dos Script v.1 http://github.com/lambang007
+	.Script untuk member FR13ND5 saja.caranya cari IP target dengan ketik ping
+ URL pada termux setelah IP target sudah ada masukan perintah dengan cara sperti
+ contoh dibawah ini
 . Tutor by Mr Horden/FR13ND5 Your ip is visible. \n
+███████▀▀▀░░░░░░░▀▀▀███████
+████▀░░░░░░░░░░░░░░░░░▀████
+███│░░░░░Mr____HORDEN░░░░░│███
+██▌│░░░░░░░░░░░░░░░░░░░│▐██
+██░└┐░░░░░░░░░░░░░░░░░┌┘░██
+██░░└┐░░░░░░░░░░░░░░░┌┘░░██
+██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██
+██▌░│██████▌░░░▐██████│░▐██
+███░│▐███▀▀░░▄░░▀▀███▌│░███
+██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██
+██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██
+████▄─┘██▌░░░░░░░▐██└─▄████
+█████░░▐█─┬┬┬┬┬┬┬─█▌░░█████
+████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████
+█████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████
+███████▄░░░░░░░░░░░▄███████
+██████████▄▄▄▄▄▄▄██████████
+███████████████████████████
 
 	usage : python3 hammer.py [-s] [-p] [-t]
 	-h : help
